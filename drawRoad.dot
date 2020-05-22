@@ -1,0 +1,23 @@
+graph G {
+Grudziądz [pos="53.49,18.75!"];
+Grudziądz--Bydgoszcz;
+Bydgoszcz[pos="53.12,18.01!"];
+Bydgoszcz--Włocławek;
+Włocławek[pos="52.66,19.06!"];
+Włocławek--Łódź;
+Łódź[pos="51.77,19.46!"];
+Łódź--Piotrków_Trybunalski;
+Piotrków_Trybunalski[pos="51.41,19.7!"];
+Piotrków_Trybunalski--Częstochowa;
+Częstochowa[pos="50.81,19.13!"];
+Częstochowa--Katowice;
+Katowice[pos="50.26,19.02!"];
+Katowice--Kraków;
+Kraków[pos="50.06,19.96!"];
+Kraków--Tarnów;
+Tarnów[pos="50.01,20.99!"];
+Tarnów--Rzeszów;
+Rzeszów[pos="50.05,22.0!"];
+Rzeszów--Przemyśl;
+Przemyśl [pos="49.79,22.78!"];
+}

@@ -1,0 +1,11 @@
+graph G {
+Poznań [pos="52.4,16.9!"];
+Poznań--Wrocław;
+Wrocław[pos="51.11,17.03!"];
+Wrocław--Opole;
+Opole[pos="50.68,17.94!"];
+Opole--Katowice;
+Katowice[pos="50.26,19.02!"];
+Katowice--Kraków;
+Kraków [pos="50.06,19.96!"];
+}
